@@ -20,6 +20,7 @@ namespace testGit.Controllers
 
         public AccountController()
         {
+            int x;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
